@@ -55,7 +55,8 @@ In summary, DevOps transforms the traditional SDLC by promoting a collaborative 
 
 A well-designed DevOps pipeline automates the software delivery process, ensuring rapid and reliable deployments. This overview outlines the key elements and considerations involved in crafting an effective pipeline.
 
-![alt text](image.png)
+![DevOps Pipeline Design](image.png) 
+[source](https://www.edureka.co/blog/wp-content/uploads/2019/06/DevOps-Tools-DevOps-Tutorial-Edureka-1.png)
 
 #### 1. Understanding the Problem and Limitations
 
